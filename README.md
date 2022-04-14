@@ -1,6 +1,12 @@
-### Hi there 👋
+
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=EunjooKim&fontSize=90)
+
+ <h3 align="center"> Hi there 👋 </h3>
+
+ <h3 align="center"> 
+ 
+ <a href="https://blog.naver.com/chu_veely"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a> <a href="https://github.com/javajoo"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a></h3>
 
 <h3 align="center">🔭Tech Stach 🔭</h3>
 
@@ -11,5 +17,3 @@
    ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=JavaScript&logoColor=black)   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=JavaScript&logoColor=black) ![AmazonAWS](https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=JavaScript&logoColor=black)    ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=JavaScript&logoColor=black)   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=JavaScript&logoColor=black)  
 
 </h3>
- <a href="https://blog.naver.com/chu_veely"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
-<a href="https://github.com/javajoo"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>

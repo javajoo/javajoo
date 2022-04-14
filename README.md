@@ -12,7 +12,7 @@
 
 <h3 align="center">
  
- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)  ![JAVA](https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=black)  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=black)  ![MySQL](https://img.shields.io/badge/MySQL-F8F8F5?style=flat-square&logo=JavaScript&logoColor=black) 
+ ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)  ![JAVA](https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=black)  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=black)  ![MySQL](https://img.shields.io/badge/MySQL-CCFF00?style=flat-square&logo=JavaScript&logoColor=black) 
  
    ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=black)   ![CSS3](https://img.shields.io/badge/CSS3-40D1F5?style=flat-square&logo=CSS3&logoColor=black) ![AmazonAWS](https://img.shields.io/badge/AmazonAWS-FF61F6?style=flat-square&logo=AmazonAWS&logoColor=black)    ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=black)   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)  
  

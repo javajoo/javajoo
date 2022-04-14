@@ -1,17 +1,12 @@
 
-
+<!-- ❤️ -->
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=EunjooKim&fontSize=90)
 
  <h3 align="center">💚 Hi there 👋 💚 </h3>
 
  <h3 align="center"> 
  
- <a href="https://blog.naver.com/chu_veely"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a> <a href="https://github.com/javajoo"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a></h3>
-
-
-<h3 align="center">❤️ Contact ❤️</h3>
-
-<h3 align="center"><a href="https://blog.naver.com/chu_veely"><img src="https://img.shields.io/badge/Gmail-ED2D2F?style=flat-square&logo=Gmail&logoColor=F8F8F5"/></a> </h3>
+ <a href="https://blog.naver.com/chu_veely"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a> <a href="https://github.com/javajoo"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> <a href="https://blog.naver.com/chu_veely"><img src="https://img.shields.io/badge/Gmail-ED2D2F?style=flat-square&logo=Gmail&logoColor=F8F8F5"/></a>
 
 <h3 align="center">💜 Tech Stach 💜</h3>
 
